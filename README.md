@@ -3,7 +3,7 @@
 Welcome to the LangChain tutorial! This guide is designed to provide you with a step-by-step instruction on how to interact with large language models through LangChain and build applications using large language models.
 
 ## Installation
-
+[Install](./docs/install.md)
 
 ## Tutorial
 
